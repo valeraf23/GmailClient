@@ -6,4 +6,3 @@ C:\Users\valerii_fedorenko\source\repos\Gml\Gml\obj\Debug\netcoreapp2.1\Gml.Asse
 C:\Users\valerii_fedorenko\source\repos\Gml\Gml\bin\Debug\netcoreapp2.1\Gml.pdb
 C:\Users\valerii_fedorenko\source\repos\Gml\Gml\obj\Debug\netcoreapp2.1\Gml.dll
 C:\Users\valerii_fedorenko\source\repos\Gml\Gml\obj\Debug\netcoreapp2.1\Gml.pdb
-C:\Users\valerii_fedorenko\source\repos\Gml\Gml\obj\Debug\netcoreapp2.1\Gml.csprojAssemblyReference.cache

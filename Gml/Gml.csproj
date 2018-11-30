@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <Description>Read and send messages, manage attachments, search messages.</Description>
+    <Product>GmailClient</Product>
+    <Company>VF</Company>
+    <Authors>Valerii Fedorenko</Authors>
+    <PackageTags>GmailClient Gmail GmailApi</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>

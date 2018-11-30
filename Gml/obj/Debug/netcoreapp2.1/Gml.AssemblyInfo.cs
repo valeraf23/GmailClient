@@ -11,11 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Gml")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("VF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Read and send messages, manage attachments, search messages.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Gml")]
+[assembly: System.Reflection.AssemblyProductAttribute("GmailClient")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
