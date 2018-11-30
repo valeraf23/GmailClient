@@ -1,8 +1,0 @@
-C:\Users\valerii_fedorenko\source\repos\Gml\Gml\bin\Debug\netcoreapp2.1\Gml.deps.json
-C:\Users\valerii_fedorenko\source\repos\Gml\Gml\bin\Debug\netcoreapp2.1\Gml.dll
-C:\Users\valerii_fedorenko\source\repos\Gml\Gml\obj\Debug\netcoreapp2.1\Gml.csproj.CoreCompileInputs.cache
-C:\Users\valerii_fedorenko\source\repos\Gml\Gml\obj\Debug\netcoreapp2.1\Gml.AssemblyInfoInputs.cache
-C:\Users\valerii_fedorenko\source\repos\Gml\Gml\obj\Debug\netcoreapp2.1\Gml.AssemblyInfo.cs
-C:\Users\valerii_fedorenko\source\repos\Gml\Gml\bin\Debug\netcoreapp2.1\Gml.pdb
-C:\Users\valerii_fedorenko\source\repos\Gml\Gml\obj\Debug\netcoreapp2.1\Gml.dll
-C:\Users\valerii_fedorenko\source\repos\Gml\Gml\obj\Debug\netcoreapp2.1\Gml.pdb
