@@ -31,7 +31,7 @@ namespace Gmail.Test
         private static readonly TimeSpan WaitForMessageSentTimeout = TimeSpan.FromSeconds(2);
 
         private static readonly string[] MailAddress =
-            {"ipreo.pcs@gmail.com", "ipreo.pcs+111222@gmail.com", "ipreo.pcs+1222333@gmail.com"};
+            {"xxxx@gmail.com", "xxx@gmail.com", "xxxxx@gmail.com"};
 
         [InlineData(TestFiles.Txt)]
         [InlineData(TestFiles.Pdf)]

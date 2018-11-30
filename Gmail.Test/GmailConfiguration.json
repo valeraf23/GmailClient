@@ -1,6 +1,6 @@
 ﻿{
-  "User": "ipreo.pcs",
-  "ClientId": "684919136678-ko062ht2dm9t4h9g3thv3pld5oevrkvl.apps.googleusercontent.com",
-  "ClientSecret": "8xsiLkwC6ke8-z_HIlq0kKCJ",
+  "User": "",
+  "ClientId": "",
+  "ClientSecret": "",
   "Scope": ["https://mail.google.com/"]
 }
