@@ -18,9 +18,16 @@ dotnet add package Gml
 
 ```csharp
 GmailConfiguration config = new GmailConfiguration();
+
 Client = new GmailClient(config);
+
 GmailClientWrapper wrapper = GMailService.ForClient(_client);
-wrapper.Send(b => b.WithSubject("Some subject").WithBody("Some Body").WithCc("address"), "some address");
+
+wrapper
+.Send(b => b.WithSubject("Some subject")
+.WithBody("Some Body")
+.WithCc("address"), "some address");
+
 IMailMessage messagesReceived = _wrapper.GetMessages(By.Subject("Some subject"))[0];
  
  messagesReceived.Subject // "Some subject"
