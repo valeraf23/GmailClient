@@ -42,13 +42,13 @@ namespace Gml.Components
 
         public MailMessageBuilder WithCc(params MailAddress[] cc)
         {
-            _mailMessageModel.Cc.ToList().AddRange(cc);
+            _mailMessageModel.Cc.AddRange(cc);
             return this;
         }
 
         public MailMessageBuilder WithBcc(params MailAddress[] bcc)
         {
-            _mailMessageModel.Bcc.ToList().AddRange(bcc);
+            _mailMessageModel.Bcc.AddRange(bcc);
             return this;
         }
 
