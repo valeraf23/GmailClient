@@ -11,8 +11,8 @@
 
   <ItemGroup>
     <PackageReference Include="Google.Apis.Gmail.v1" Version="1.36.1.1342" />
-    <PackageReference Include="Microsoft.Extensions.FileProviders.Physical" Version="2.1.1" />
-    <PackageReference Include="MimeKit" Version="2.0.7" />
+    <PackageReference Include="Microsoft.Extensions.FileProviders.Physical" Version="2.2.0" />
+    <PackageReference Include="MimeKit" Version="2.1.0" />
     <PackageReference Include="MimeMapping" Version="1.0.1.12" />
   </ItemGroup>
 
