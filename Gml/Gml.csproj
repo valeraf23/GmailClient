@@ -7,8 +7,9 @@
     <Company>VF</Company>
     <Authors>Valerii Fedorenko</Authors>
     <PackageTags>GmailClient Gmail GmailApi</PackageTags>
-    <Version>1.0.3</Version>
+    <Version>1.0.4</Version>
     <PackageProjectUrl>https://github.com/valeraf23/GmailClient</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/valeraf23/GmailClient</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
