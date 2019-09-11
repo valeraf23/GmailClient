@@ -21,16 +21,16 @@ GmailConfiguration config = new GmailConfiguration();
 
 Client = new GmailClient(config);
 
-GmailClientWrapper wrapper = GMailService.ForClient(_client);
+GmailClientWrapper gmailService = GMailService.ForClient(_client);
 
-wrapper
+gmailService
 .Send(b =>
        b.WithSubject("Some subject")
       .WithBody("Some Body")
       .WithCc("address"),
     "some address");
 
-IMailMessage messagesReceived = _wrapper.GetMessages(By.Subject("Some subject"))[0];
+IMailMessage messagesReceived = gmailService.GetMessages(By.Subject("Some subject"))[0];
  
  messagesReceived.Subject // "Some subject"
  messagesReceived.Body // "Some Body"
